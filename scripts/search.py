@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # /// script
+# requires-python = ">=3.10,<3.14"
 # dependencies = ["fast-flights", "playwright"]
 # ///
 """
